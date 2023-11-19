@@ -9,8 +9,7 @@ I've been working mostly as a Data Scientist over the last few years, but in Aug
 ## Pre-Requistes and Assumptions about who you are
 
 ## What is Data Engineering
-![Alt text](image.png)
-_From the Book [Fundamentals of Data Engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302/ref=sr_1_1?hvadid=676976511340&hvdev=c&hvlocphy=9009673&hvnetw=g&hvqmt=e&hvrand=11237717600805968549&hvtargid=kwd-902459765949&hydadcr=22134_13517537&keywords=fundamentals+of+data+engineering&qid=1700363631&sr=8-1) by Joe Reis and Matt Housley_
+![Data Engineering Lifecycle](https://miro.medium.com/v2/resize:fit:600/1*1t2zah1TG5_FCu0nTwkKtg.png) by Joe Reis and Matt Housley_
 
 Data Engineering is many things, as you can see from the image above.
 
@@ -27,13 +26,6 @@ Joe Reis, Matt Housley
 In this workshop, we are going to cover a few topics within the Data Engineering space. This is part of a much larger concept, the Full Stack Data Engineering workshops is a Year-Long workshop series that meets once a month.
 
 The goal of the DE quarter is to introduce you to concepts, tools, and goals of Data Engineering. I want to demystify some maybe complex technologies or concepts you've heard of before.
-
-### What Will we do?
-
-Make sure to check out the Folders for each Workshop in this Public Preview. They contain the README for each workshop, which will show you what each day will be able.
-
-This will hopefully give you enough information to make your decision.
-
 
 ### Structure of the Sessions
 We will have dinner, networking, short powerpoints, followed by a much longer time for a hands-on lab.
