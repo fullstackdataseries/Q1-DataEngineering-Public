@@ -9,7 +9,7 @@ I've been working mostly as a Data Scientist over the last few years, but in Aug
 ## Pre-Requistes and Assumptions about who you are
 
 ## What is Data Engineering
-![Data Engineering Lifecycle](https://miro.medium.com/v2/resize:fit:600/1*1t2zah1TG5_FCu0nTwkKtg.png) by Joe Reis and Matt Housley_
+![Data Engineering Lifecycle](https://miro.medium.com/v2/resize:fit:600/1*1t2zah1TG5_FCu0nTwkKtg.png) _Picture from [Fundamentals of Data Engineering](https://www.amazon.com/Fundamentals-Data-Engineering-Robust-Systems/dp/1098108302/ref=sr_1_1?hvadid=676976511340&hvdev=c&hvlocphy=9009673&hvnetw=g&hvqmt=e&hvrand=11237717600805968549&hvtargid=kwd-902459765949&hydadcr=22134_13517537&keywords=fundamentals+of+data+engineering&qid=1700363631&sr=8-1) Book by by Joe Reis and Matt Housley_
 
 Data Engineering is many things, as you can see from the image above.
 
